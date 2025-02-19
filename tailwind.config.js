@@ -60,6 +60,7 @@ module.exports = {
       },
       fontFamily: {
         sans: [
+          "Hachi Maru Pop",
           "Inter",
           "-apple-system",
           "BlinkMacSystemFont",
